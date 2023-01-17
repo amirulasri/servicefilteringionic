@@ -1,0 +1,7 @@
+{
+  "name": "servicefiltering",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
